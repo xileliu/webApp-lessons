@@ -1,0 +1,22 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "移动端css3学习",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files \"*.*\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xileliu/webApp-lessons.git"
+  },
+  "author": "xile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xileliu/webApp-lessons/issues"
+  },
+  "homepage": "https://github.com/xileliu/webApp-lessons#readme",
+  "dependencies": {
+    "browser-sync": "^2.11.1"
+  }
+}
